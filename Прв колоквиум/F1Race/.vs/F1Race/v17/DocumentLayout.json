@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmlad\\source\\repos\\F1Race\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|c:\\users\\dmlad\\source\\repos\\f1race\\f1race\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|solutionrelative:f1race\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|c:\\users\\dmlad\\source\\repos\\f1race\\f1race\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|solutionrelative:f1race\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|c:\\users\\dmlad\\source\\repos\\f1race\\f1race\\vozac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|solutionrelative:f1race\\vozac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|c:\\users\\dmlad\\source\\repos\\f1race\\f1race\\krug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|solutionrelative:f1race\\krug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|c:\\users\\dmlad\\source\\repos\\f1race\\f1race\\nov_vozac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|solutionrelative:f1race\\nov_vozac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|c:\\users\\dmlad\\source\\repos\\f1race\\f1race\\nov_vozac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B61ED0FE-3181-467F-9ADA-9E74B37EB8EF}|F1Race\\F1Race.csproj|solutionrelative:f1race\\nov_vozac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "nov_vozac.cs",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\nov_vozac.cs",
+              "RelativeDocumentMoniker": "F1Race\\nov_vozac.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\nov_vozac.cs",
+              "RelativeToolTip": "F1Race\\nov_vozac.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:29:58.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "nov_vozac.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\nov_vozac.cs",
+              "RelativeDocumentMoniker": "F1Race\\nov_vozac.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\nov_vozac.cs [Design]",
+              "RelativeToolTip": "F1Race\\nov_vozac.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:27:08.716Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\Form1.cs",
+              "RelativeDocumentMoniker": "F1Race\\Form1.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\Form1.cs",
+              "RelativeToolTip": "F1Race\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:26:50.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vozac.cs",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\vozac.cs",
+              "RelativeDocumentMoniker": "F1Race\\vozac.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\vozac.cs",
+              "RelativeToolTip": "F1Race\\vozac.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA0wBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:23:05.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "krug.cs",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\krug.cs",
+              "RelativeDocumentMoniker": "F1Race\\krug.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\krug.cs",
+              "RelativeToolTip": "F1Race\\krug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:21:51.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\Form1.cs",
+              "RelativeDocumentMoniker": "F1Race\\Form1.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\F1Race\\F1Race\\Form1.cs [Design]",
+              "RelativeToolTip": "F1Race\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:17:32.564Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

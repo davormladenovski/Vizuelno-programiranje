@@ -1,0 +1,11 @@
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe.config
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.exe
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\bin\Debug\Math_Quiz.pdb
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csproj.AssemblyReference.cache
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Form1.resources
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.Properties.Resources.resources
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.random_question.resources
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csproj.GenerateResource.cache
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.csproj.CoreCompileInputs.cache
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.exe
+C:\Users\dmlad\source\repos\Math_Quiz\Math_Quiz\obj\Debug\Math_Quiz.pdb

@@ -1,0 +1,11 @@
+C:\Users\dmlad\source\repos\F1Race\F1Race\bin\Debug\F1Race.exe.config
+C:\Users\dmlad\source\repos\F1Race\F1Race\bin\Debug\F1Race.exe
+C:\Users\dmlad\source\repos\F1Race\F1Race\bin\Debug\F1Race.pdb
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.csproj.AssemblyReference.cache
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.Form1.resources
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.nov_vozac.resources
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.Properties.Resources.resources
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.csproj.GenerateResource.cache
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.csproj.CoreCompileInputs.cache
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.exe
+C:\Users\dmlad\source\repos\F1Race\F1Race\obj\Debug\F1Race.pdb

@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|c:\\users\\dmlad\\source\\repos\\math_quiz\\math_quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|solutionrelative:math_quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|c:\\users\\dmlad\\source\\repos\\math_quiz\\math_quiz\\random_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|solutionrelative:math_quiz\\random_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|c:\\users\\dmlad\\source\\repos\\math_quiz\\math_quiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|solutionrelative:math_quiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|c:\\users\\dmlad\\source\\repos\\math_quiz\\math_quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|solutionrelative:math_quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|c:\\users\\dmlad\\source\\repos\\math_quiz\\math_quiz\\random_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9C84F26-972A-439B-9170-3F01C074F7C1}|Math_Quiz\\Math_Quiz.csproj|solutionrelative:math_quiz\\random_question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "random_question.cs",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\random_question.cs",
+              "RelativeDocumentMoniker": "Math_Quiz\\random_question.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\random_question.cs",
+              "RelativeToolTip": "Math_Quiz\\random_question.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwEgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:06:00.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "random_question.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\random_question.cs",
+              "RelativeDocumentMoniker": "Math_Quiz\\random_question.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\random_question.cs [Design]",
+              "RelativeToolTip": "Math_Quiz\\random_question.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:59:05.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\Form1.cs",
+              "RelativeDocumentMoniker": "Math_Quiz\\Form1.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\Form1.cs",
+              "RelativeToolTip": "Math_Quiz\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T12:04:47.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "question.cs",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\question.cs",
+              "RelativeDocumentMoniker": "Math_Quiz\\question.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\question.cs",
+              "RelativeToolTip": "Math_Quiz\\question.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wBoAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:56:31.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\Form1.cs",
+              "RelativeDocumentMoniker": "Math_Quiz\\Form1.cs",
+              "ToolTip": "C:\\Users\\dmlad\\source\\repos\\Math_Quiz\\Math_Quiz\\Form1.cs [Design]",
+              "RelativeToolTip": "Math_Quiz\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T11:53:56.946Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
