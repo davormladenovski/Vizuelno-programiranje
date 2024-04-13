@@ -1,0 +1,11 @@
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\bin\Debug\Avtomobili.exe.config
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\bin\Debug\Avtomobili.exe
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\bin\Debug\Avtomobili.pdb
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.csproj.AssemblyReference.cache
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.add_marka.resources
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.Form1.resources
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.Properties.Resources.resources
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.csproj.GenerateResource.cache
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.csproj.CoreCompileInputs.cache
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.exe
+C:\Users\dmlad\source\repos\Avtomobili\Avtomobili\obj\Debug\Avtomobili.pdb
